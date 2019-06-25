@@ -5,7 +5,7 @@ _________________________________________
 
 <b>Weather App</b>: 
 
-Uses tkinter to create a Graphical User Interface that connects to openweathermap.org's API in order to display weather information:
+Uses tkinter to create a graphical user interface that connects to openweathermap.org's API in order to display weather information:
 https://github.com/Jeromepullen/Python-Projects/blob/master/weather%20app.py
 _________________________________________
 
