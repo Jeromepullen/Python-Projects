@@ -11,7 +11,7 @@ _________________________________________
 
 <b>Connect 4 Game with Artificial Intelligence</b>:
 
-Uses pygame to create a Connect 4 game and nympy/math/random to use an AI to play against:
+Uses pygame to create a Connect 4 game and nympy/math/random to create an AI to play against:
 https://github.com/Jeromepullen/Python-Projects/blob/master/Connect4_w_AI.py
 
 _________________________________________
