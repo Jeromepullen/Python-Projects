@@ -25,7 +25,7 @@ _________________________________________
 
 <b>Find Mouse Position</b>:
 
-Uses pyautogui to find the current (X,Y) coordinates of the mouse position (works as a companion "auto_mouse_move_and_click.py"):
+Uses pyautogui to find the current (X,Y) coordinates of the mouse position:
 https://github.com/Jeromepullen/Python-Projects/blob/master/find%20mouse%20position.py
 
 ________________________________________
